@@ -4,3 +4,5 @@ These 2 files qt*_1.0_all.deb are needed for some apps like FreeCad or Telegram-
 Download both files and type in a terminal:
 
 ~$ sudo dpkg -i qt*_all.deb
+
+Tested with Ubuntu 20.04
