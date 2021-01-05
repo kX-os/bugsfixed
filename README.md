@@ -1,2 +1,2 @@
 # bugsfixed
-Hi, world.  There you can find some fixes for Debian based distros.
+Hi, world.  Here you can find some fixes for Debian based distros.
